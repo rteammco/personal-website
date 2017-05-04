@@ -1,0 +1,3 @@
+# Media links (test for now):
+github = https://github.com/teammcr192
+other = google.com
